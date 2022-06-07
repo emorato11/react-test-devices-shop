@@ -1,6 +1,5 @@
 import ProductsList from './views/ProductsList/ProductsList'
 import ProductDetails from './views/ProductDetails/ProductDetails'
-import './App.scss';
 import { Route } from 'wouter';
 import Header from './components/Header/Header';
 
